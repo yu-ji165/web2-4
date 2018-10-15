@@ -5,7 +5,7 @@ body
 
 #main
 {
-  width: 960px;
+  width: 798px;
   margin: 40px auto;
   padding: 40px 80px;
   border: green 1px solid;
